@@ -1,0 +1,8 @@
+output/
+**/adapter/
+**/*.safetensors
+**/*predictions*.csv
+**/*metrics*.json
+**/*llm_score_cache*.json
+.ipynb_checkpoints/
+__pycache__/
