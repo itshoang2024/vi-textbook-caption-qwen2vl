@@ -46,7 +46,7 @@ Meaning:
 
 ### If `RUN_ID="A"`
 Adapter A is trained with the following hyperparameters:
-  ```json
+  ```jsonc
   {
     'model_id': 'Qwen/Qwen2-VL-2B-Instruct',
     'quantization': None,
@@ -74,7 +74,7 @@ Adapter A is trained with the following hyperparameters:
 
 ### If `RUN_ID="B"`
 Adapter B is trained with the following hyperparameters:
-  ```json
+  ```jsonc
   {
     'model_id': 'Qwen/Qwen2-VL-2B-Instruct',
     'quantization': None,
