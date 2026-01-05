@@ -1,4 +1,4 @@
-# Vietnamese Textbook Captioning with Qwen2-VL + LoRA
+# Vietnamese Textbook Captioning with Qwen2-VL-2B + LoRA
 
 > **Goal:** finetune `Qwen/Qwen2-VL-2B-Instruct` to generate **narration-style, screen-reader friendly** Vietnamese captions for textbook pages (accessibility-first, supporting visually impaired learners).
 
